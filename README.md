@@ -1,5 +1,7 @@
 # 📺 YouTube Autopause Bypass for Chrome
-Automatically dismisses YouTube’s “Video paused in Google Chrome. Continue watching?” popup, so you can keep background tabs playing without interruption.
+Automatically dismisses YouTube’s “Video paused in Google Chrome. Continue watching?” popup, so you can keep background windows playing without interruption.
+
+Just make sure, you run YouTube in a separate window, as using a background tab in the same browser won't work.
 
 ![](youtube-paused.png)
 
